@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=6&amp;CharacterRangeLoc=639&amp;EndingColumnNumber=11&amp;EndingLineNumber=36&amp;StartingColumnNumber=5&amp;StartingLineNumber=36&amp;Timestamp=466654956.689614"
+         lockedSize = "{200, 155}"
+         selectedRepresentationIndex = "2"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=18&amp;CharacterRangeLoc=2742&amp;EndingColumnNumber=36&amp;EndingLineNumber=143&amp;StartingColumnNumber=18&amp;StartingLineNumber=143&amp;Timestamp=466676266.604604"
+         lockedSize = "{181, 133}"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=8&amp;CharacterRangeLoc=3994&amp;EndingColumnNumber=13&amp;EndingLineNumber=211&amp;StartingColumnNumber=5&amp;StartingLineNumber=211&amp;Timestamp=466680564.52307"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=8&amp;CharacterRangeLoc=4094&amp;EndingColumnNumber=13&amp;EndingLineNumber=216&amp;StartingColumnNumber=5&amp;StartingLineNumber=216&amp;Timestamp=466680564.543511"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=7&amp;CharacterRangeLoc=4201&amp;EndingColumnNumber=82&amp;EndingLineNumber=218&amp;StartingColumnNumber=75&amp;StartingLineNumber=218&amp;Timestamp=466680696.133105"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
