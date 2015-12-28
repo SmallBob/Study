@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  MJRefresh
+//
+//  Created by 王凯 on 15/12/28.
+//  Copyright © 2015年 王凯. All rights reserved.
+//
+
+
+
+#ifdef __OBJC__
+
+#import "MJRefresh.h"
+#define kWidth [UIScreen mainScreen].bounds.size.width
+#define kHeight [UIScreen mainScreen].bounds.size.height
+
+
+#define MJRandomColor [UIColor colorWithRed:arc4random_uniform(255)/255.0 green:arc4random_uniform(255)/255.0 blue:arc4random_uniform(255)/255.0 alpha:1]
+
+#endif
